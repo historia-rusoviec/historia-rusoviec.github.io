@@ -65,11 +65,7 @@
 
   <url>
     <loc>https://historia-rusoviec.github.io/arpad-migl/</loc>
-  </url>
-
-  <url>
-    <loc>https://historia-rusoviec.github.io/theresia-kaszonyi/</loc>
-  </url>
+  </url>  
 
   <url>
     <loc>https://historia-rusoviec.github.io/hugo-migl/</loc>
@@ -77,6 +73,10 @@
 
   <url>
     <loc>https://historia-rusoviec.github.io/aladar-migl/</loc>
+  </url>
+
+  <url>
+    <loc>https://historia-rusoviec.github.io/theresia-kaszonyi/</loc>
   </url>
 
 </urlset>
